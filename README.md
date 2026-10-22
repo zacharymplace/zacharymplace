@@ -10,6 +10,8 @@ My work focuses on a practical question: **how do we make software capable witho
 
 Integrity-gated lifecycle infrastructure for governed AI agents.
 
+The Hermes name refers to [Nous Research’s Hermes Agent](https://github.com/NousResearch/hermes-agent). My contribution is the surrounding operating infrastructure: Sentra’s decision layer, authorization boundaries, readiness checks, verification, and preserved evidence for workflows involving Hermes agents. The case study does not claim authorship of Hermes Agent or establish that Hermes Agent executed the historical checkpoint tasks.
+
 Sentra–Hermes turns agent execution into a bounded, inspectable sequence:
 
 **Readiness → Authorization → Execution → Verification → Advancement → Completion**
