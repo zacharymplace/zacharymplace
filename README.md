@@ -6,9 +6,7 @@ My work focuses on a practical question: **how do we make software capable witho
 
 [Explore my portfolio](https://z-systems-builder.zacharyplace.chatgpt.site) · [View my flagship case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site)
 
-## Featured system
-
-### Sentra–Hermes
+## Flagship case study: Sentra–Hermes
 
 Integrity-gated lifecycle infrastructure for governed AI agents.
 
@@ -16,7 +14,7 @@ Sentra–Hermes turns agent execution into a bounded, inspectable sequence:
 
 **Readiness → Authorization → Execution → Verification → Advancement → Completion**
 
-The verified successor lifecycle completed:
+The documented successor-lifecycle checkpoint recorded:
 
 - 13/13 repository-integrity checks passed
 - 3/3 governed tasks completed
@@ -24,13 +22,23 @@ The verified successor lifecycle completed:
 - Zero recovery issues at closeout
 - Predecessor and successor evidence preserved
 
-[Read the case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site) · [Explore related public observability tooling](https://github.com/zacharymplace/hermes-observability)
+These are results from a bounded lifecycle checkpoint, not a claim of general production readiness. The case study documents the implementation and its evidence; Hermes Observability below provides related public tooling.
 
-## Current work
+[Read the flagship case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site)
 
-- **Proofyard** — a public credibility system connecting commitments, forecasts, proof, review, outcomes, and reputation.
-- **ZCAD** — parametric CAD automation with reusable assemblies, calibration artifacts, and geometry-aware validation.
-- **Sentra / Hermes / Atlas** — personal infrastructure for governed execution, observability, memory, and operational judgment.
+## Selected public repositories
+
+These five pinned repositories show how I turn operating ideas into inspectable software. Each README includes first-run steps, an example output or development screenshot, and the limits of the current version.
+
+| Project | What you can inspect or try | Current scope |
+| --- | --- | --- |
+| [**Pick Up Here**](https://github.com/zacharymplace/pick-up-here) | Resume work in a Git repository using saved evidence, change comparisons, and optional local Gemma guidance. | **Prototype release candidate.** Facts and comparison work without AI; collected evidence does not establish runtime correctness. |
+| [**Commonfeed**](https://github.com/zacharymplace/commonfeed) | Read RSS and Atom feeds in finite sessions with explained selections and private feedback. | **Published local reader; focused product probe.** Includes a fictional sample session. Long-term reliability and improved reading outcomes are not established here. |
+| [**Backsolve**](https://github.com/zacharymplace/backsolve) | Record decisions, evidence, tests, and outcomes behind AI-assisted work in Whyfiles and portable archives. | **Local v0.1 CLI prototype.** Records are assembled deterministically from explicit captures; the confidence score is a heuristic, not independent verification. |
+| [**LineForge**](https://github.com/zacharymplace/lineforge) | Turn chess games into annotations, mistake cards, review sessions, and portable study artifacts. | **Local v0.1 application prototype.** Coach lenses are deterministic; optional Stockfish analysis is separate. Learning gains and broader usability remain unproven. |
+| [**Hermes Observability**](https://github.com/zacharymplace/hermes-observability) | Inspect observability standards, structured trace contracts, and local readiness reports. | **v0.1 standards and validation tooling.** A fixture PASS does not establish live ingestion, another repository's compliance, or production readiness. |
+
+Start with the repository READMEs for runnable examples and current boundaries. A passing check supports the behavior it exercises; it does not by itself establish user value or readiness for production.
 
 ## How I work
 
