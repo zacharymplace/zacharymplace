@@ -24,7 +24,7 @@ The verified successor lifecycle completed:
 - Zero recovery issues at closeout
 - Predecessor and successor evidence preserved
 
-[Read the case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site) · [Inspect the repository](https://github.com/zacharymplace/ops-clarity-sprint)
+[Read the case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site) · [Explore related public observability tooling](https://github.com/zacharymplace/hermes-observability)
 
 ## Current work
 
