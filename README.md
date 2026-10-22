@@ -19,7 +19,7 @@ The documented successor-lifecycle checkpoint recorded:
 - 13/13 repository-integrity checks passed
 - 3/3 governed tasks completed
 - Four single-transition authorizations consumed
-- Zero recovery issues at closeout
+- Zero recovery issues found in a read-only replay of the historical checkpoint snapshot
 - Predecessor and successor evidence preserved
 
 These are results from a bounded lifecycle checkpoint, not a claim of general production readiness. The case study documents the implementation and its evidence; Hermes Observability below provides related public tooling.
