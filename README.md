@@ -6,6 +6,8 @@ My work focuses on a practical question: **how do we make software capable witho
 
 [Explore my portfolio](https://z-systems-builder.zacharyplace.chatgpt.site) · [View my flagship case study](https://sentra-hermes-case-study.zacharyplace.chatgpt.site)
 
+[Read the DEV introduction](https://dev.to/zmp/building-inspectable-systems-my-portfolio-sentra-hermes-and-five-public-projects-25c0): Sentra–Hermes, five public projects, and the evidence and limits behind the work.
+
 ## Flagship case study: Sentra–Hermes
 
 Integrity-gated lifecycle infrastructure for governed AI agents.
